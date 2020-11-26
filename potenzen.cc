@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	int basis;
 	int number;
 	std::cout << "Geben Sie eine Basis für die Potenz ein." << std::endl;
-	std::cout << " q = " << std::flush;
+	std::cout << "q = " << std::flush;
 	std::cin >> basis;
 	std::cout << "Geben Sie eine Potenz ein." << std::endl;
 	std::cout << "n = " << std::flush;
