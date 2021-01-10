@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ipk/ipk-uebungen/Übung6/canvas.cc
+canvas.hh
+/home/ipk/ipk-uebungen/Übung6/canvas.hh
+vector
+-
+
+/home/ipk/ipk-uebungen/Übung6/canvas.hh
+point.hh
+/home/ipk/ipk-uebungen/Übung6/point.hh
+vector
+-
+
+/home/ipk/ipk-uebungen/Übung6/point.hh
+

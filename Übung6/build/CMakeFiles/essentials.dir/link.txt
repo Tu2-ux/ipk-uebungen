@@ -1,0 +1,2 @@
+/usr/bin/ar qc libessentials.a  CMakeFiles/essentials.dir/point.cc.o
+/usr/bin/ranlib libessentials.a

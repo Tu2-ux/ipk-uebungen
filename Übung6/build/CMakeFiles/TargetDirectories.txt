@@ -1,0 +1,6 @@
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/edit_cache.dir
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/test.dir
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/canvas.dir
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/rebuild_cache.dir
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/polygon.dir
+/home/ipk/ipk-uebungen/Übung6/build/CMakeFiles/essentials.dir

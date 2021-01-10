@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/polygon.dir/polygon.cc.o  -o polygon  libessentials.a 

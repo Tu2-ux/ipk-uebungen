@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ipk/ipk-uebungen/Übung6/point.cc
+point.hh
+/home/ipk/ipk-uebungen/Übung6/point.hh
+
+/home/ipk/ipk-uebungen/Übung6/point.hh
+
