@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/pgm.cc
+pgm.hh
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/pgm.hh
+cmath
+-
+fstream
+-
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/pgm.hh
+string
+-
+vector
+-
+

@@ -1,0 +1,6 @@
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/rebuild_cache.dir
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/plot.dir
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/edit_cache.dir
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/test.dir
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/pgm.dir
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/build/CMakeFiles/testcorners.dir

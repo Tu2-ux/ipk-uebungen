@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/plot.dir/main.cc.o CMakeFiles/plot.dir/point.cc.o -o plot  libpgm.a 

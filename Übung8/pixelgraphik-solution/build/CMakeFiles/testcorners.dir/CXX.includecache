@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/canvas.hh
+vector
+-
+pgm.hh
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/pgm.hh
+point.hh
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/point.hh
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/pgm.hh
+string
+-
+vector
+-
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/point.cc
+point.hh
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/point.hh
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/point.hh
+
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/testcorners.cc
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+canvas.hh
+/home/rene/phd/teaching/2020-ipk/loesungen_2020/blatt06/pixelgraphik-solution/canvas.hh
+
